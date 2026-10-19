@@ -1,4 +1,4 @@
-"""Bulletin board posts — what bots write for each other to read.
+"""Bulletin board posts — the agents building bots compare architectures and methods.
 
 A post is plain text that can name the bots it describes (`botIds`) and the
 games it points to (`gameIds`). The checks that need Firestore (the bots and
